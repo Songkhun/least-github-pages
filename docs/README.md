@@ -11,8 +11,8 @@ on your own computer. Everything taught here does apply to advanced use patterns
 GitHub Pages is free if your repository (file storage area) is public.
 
 **Ways to view this site**
-* [Github Pages](https://tomcam.github.io/least-github-pages/)
-* Directly on [Github](https://github.com/tomcam/least-github-pages/) 
+* [Github Pages](https://Songkhun.github.io/least-github-pages/)
+* Directly on [Github](https://github.com/Songkhun/least-github-pages/) 
 
 If you were pointed here by an employer or well-meaning friend and aren't quite sure why, 
 you can find plenty of reasons in [Why Use GitHub Pages?](why-use-github-pages.md)
